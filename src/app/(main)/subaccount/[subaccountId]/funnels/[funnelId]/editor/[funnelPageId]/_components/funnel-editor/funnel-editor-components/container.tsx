@@ -65,7 +65,7 @@ const Container = ({ element }: Props) => {
             containerId: id,
             elementDetails: {
               content: {
-                src: 'https://www.youtube.com/embed/A3l6YYkXzzg?si=zbcCeWcpq7Cwf8W1',
+                src: 'https://media.cuongthach.com/file/CuongThach/huong-dan-tao-tai-khoan-Stripe.mp4',
               },
               id: v4(),
               name: 'Video',
